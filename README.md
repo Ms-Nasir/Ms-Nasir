@@ -19,7 +19,6 @@ I enjoy building security-focused projects, analyzing network and security data,
 - Network Security
 - Ethical Hacking & Penetration Testing
 - Threat Hunting Fundamentals
-- IAM, RBAC, MFA & SSO
 
 ---
 

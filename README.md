@@ -1,4 +1,4 @@
-# Hi, I'm Nasir 👋
+# Hi, I'm Muntaha Nasir 👋
 
 ### Cybersecurity Professional | SOC Analyst | Security Monitoring | Digital Forensics
 
@@ -74,7 +74,7 @@ I enjoy building security-focused projects, analyzing network and security data,
 
 ## 🚀 Featured Projects
 
-### 🛡️ PacketEye — Machine Learning Based Network Intrusion Detection System
+### 🛡️ Machine Learning Based Network Intrusion Detection System
 
 A web-based **Machine Learning Network Intrusion Detection System (NIDS)** developed to identify malicious network traffic and cyberattack patterns.
 
@@ -172,7 +172,7 @@ Currently building and documenting practical cybersecurity work focused on:
 **BS Cyber Security and Digital Forensics**
 
 The Islamia University of Bahawalpur
-
+**Final Year Project: ** Machine Learning Based Network Intrusion Detection System
 **Thesis:** Machine Learning Based Network Intrusion Detection System
 
 ---
@@ -194,9 +194,6 @@ Worked on:
 
 ## 📊 Cybersecurity Portfolio
 
-This GitHub profile documents my practical cybersecurity journey through:
-
-**Build → Simulate → Detect → Investigate → Report**
 
 I aim to continuously develop practical skills in **SOC operations, threat detection, incident response, network security, and digital forensics**.
 

@@ -155,14 +155,14 @@ Currently building and documenting practical cybersecurity work focused on:
 - Certified Cybersecurity Educator Professional (CCEP)
 - Certified Phishing Prevention Specialist (CPPS)
 - Elastic Security with SIEM
-- Certified Ethical Hacking (CEH)
+- Certified Ethical Hacking (CEH) - PFTP
 - Foundation of Cyber Security — Google
 - Digital Forensics — Charles Sturt University
 - Digital Forensics Fundamentals
-- Diploma in Digital Forensic Investigation
+- Diploma in Digital Forensic Investigation - Alison
 - Advanced OSINT Mastery
 - CS50's Introduction to Artificial Intelligence with Python
-- Python Certificate
+- Python Certificate - Coursera
 - Claude 101 — Anthropic Education
 
 ---
